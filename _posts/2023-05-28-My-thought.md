@@ -1,0 +1,7 @@
+---
+title: My thought
+author: Nick Hung
+date: 2023-05-28
+category: Jekyll
+layout: post
+---
