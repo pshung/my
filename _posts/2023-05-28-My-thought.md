@@ -6,22 +6,23 @@ category: Jekyll
 layout: post
 ---
 
-# ChatGPT 通過圖靈測試了嗎?
-參考這個影片The Turing test: Can a computer pass for a human? - Alex Gendler  
-Turing test 就是說 當機器與你不見面對話的時候, 你無法辨識對方是人或者機器, 那麼就算通過測試.  
+# Have ChatGPT passed the turing test?
+refer to this TED talk video, The Turing test: Can a computer pass for a human? - Alex Gendler  
+Turing test is a form of conversation, but you're talking to unseen individuals, if you're unable to distinguish any differences, we consider the test has been passed. 
+
 以目前免費版本來說, 我覺得並沒有通過測試, 因為Chatgpt 回答的內容 真的像一個Advisor  
 也就是說你問他答 ~ 完全無法進行有意識的心靈溝通  
 
-意識是什麼? 機器會有意識嗎?  
+What's consciousness? Does a machine own consciousnes?
 如果說意識是超出神經元 與運算之外的元件. 那麼也就是說機器在有自我意識的時候  並沒有接受到命令 但它卻自己運算起某些東西.  
 想想這應該可以測量吧?  
 
-# 提升思考維度
-參考這篇文章 [淺談「維度」對人的意義，避免「惱羞成怒」與培養「獨立思考」的重要性](https://www.potatomedia.co/post/87415c4a-84d7-48ae-ab58-fad9df118246)  
-文章作者 解釋了高維度思考, 從1D,2D,3D (人類所在空間) 到4D(時間軸), 最後到5D, 6D 感覺就說的有點心虛 ~  
-所以這裡先理解到4D~  
+# Level up the dimension of thinging 提升思考維度
+refer to this article [淺談「維度」對人的意義，避免「惱羞成怒」與培養「獨立思考」的重要性](https://www.potatomedia.co/post/87415c4a-84d7-48ae-ab58-fad9df118246)  
+Author explians the dimension from 0D to 6D, but when authos explains the 5D and 6D, it sounds like somewhat uncertain or speculative.
+So, we only explain from 0D to 4D here.
 
-從幾何來理解 0維(點), 1維(line), 2維(plane), 3維以上都稱space  
+In terms of geometric, 0D(point), 1D(line), 2D(plane), 3D above are called space  
 人所在空間就是3維 (長寬高) 所以很容易向下理解, 那麼4維空間 怎麼理解?  
 高維度就是多個低維度組合而成, 所以多個點構成線(0->1 維), 多個線構成面(1->2維), 多個面構成3維空間(2->3維)  
 那麼多個3維空間 如果加上時間軸, 就能夠組合成4維空間.  
@@ -43,6 +44,7 @@ Turing test 就是說 當機器與你不見面對話的時候, 你無法辨識�
 如果我想著去練習更快的輸入法 那最多就是同維度思考 或許能提升100%速度  
 但是如果我運用AI  voice-to-text 輸入, 那就是升維思考, 提升速度肯定300%以上.  
 
+Indeed, the most chanllenging aspect initially is able to recegnize what you're engaged in is able to be elavated up to a higher-dimensional thinking.
 當然 一開始最難的點在於 你能夠辨識出你正在做什麼事情是可以升維思考的.  
 
 
