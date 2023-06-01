@@ -6,6 +6,15 @@ category: Jekyll
 layout: post
 ---
 
+# The danger of AI is weirder than you think
+refer to this TED [video](https://www.ted.com/talks/janelle_shane_the_danger_of_ai_is_weirder_than_you_think?language=en)  
+Traditional programming expresses your rules explicitly, so it has limited searching space; thus, the solution is usually local optimal.  
+Because, human are not good at dealing with large data, so, human 試著從小範圍資料歸納出原則 並用這個原則來處理所有資料.  
+也因此人類自古以來認為的原則 真理 道, 在AI 眼中, 都極有可能是錯誤的, 因為AI 具有從大資料中 歸納的能力, 也因此看的東西多 自然有機會找出global optimal.  
+但危險性也因此產生, 因為AI 只為了完成objective, 卻絲毫不考慮任何後果 因此完成objective 的手段 往往超出人類意想之外.  
+
+
+
 # Have ChatGPT passed the turing test?
 refer to this TED talk video, The Turing test: Can a computer pass for a human? - Alex Gendler  
 Turing test is a form of conversation, but you're talking to unseen individuals, if you're unable to distinguish any differences, we consider the test has been passed. 
