@@ -15,3 +15,6 @@ We use tool mlir-pdll to compile it into pdl dialect.
 
 [code](https://github.com/alibaba/BladeDISC/blob/da990f41641affe228ad5122aaa8badd2ccd70bd/tao_compiler/mlir/disc/transforms/disc_pdl_utils.cc#L411)
 
+// compile into pdl dialect.  
+`mlir-pdll -x=mlir test.pdll -o test.mlir`
+
